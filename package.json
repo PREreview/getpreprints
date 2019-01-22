@@ -1,0 +1,41 @@
+{
+  "name": "getpreprints",
+  "version": "0.0.1",
+  "description": "Node.JS library and CLI for discovering and retrieving preprint articles and metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PREreview/getpreprints.git"
+  },
+  "keywords": [
+    "preprint",
+    "literature",
+    "downloader",
+    "cli",
+    "prereview"
+  ],
+  "author": "Rik Smith-Unna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PREreview/getpreprints/issues"
+  },
+  "homepage": "https://github.com/PREreview/getpreprints#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "got": "^9.6.0",
+    "lodash": "^4.17.11",
+    "matched": "^3.0.1",
+    "mkdirp": "^0.5.1",
+    "oai-pmh": "^2.0.2",
+    "progress": "^2.0.3",
+    "request": "^2.88.0",
+    "requestretry": "^3.1.0",
+    "sanitize-filename": "^1.6.1",
+    "version_compare": "0.0.3",
+    "winston": "^3.2.0"
+  }
+}
