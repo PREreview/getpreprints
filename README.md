@@ -4,18 +4,31 @@ preprint metadata harvester and ingester
 
 **under active development, please come back later :)**
 
-## Roadmap
+## Roadmap of Preprint providers to support
 
-Advance
+### Implemented
+
+- [x] bioRxiv
+- [x] ChemRxiv
+- [x] F1000 Research
+- [x] PeerJ preprints
+
+### Up next
+
+- [ ] **arXiv**
+- [ ] **OSF preprints**
+- [ ] **SSRN**
+- [ ] **Zenodo**
+
+### Future
+
+- [ ] Advance
 - [ ] AfricArxiv
 - [ ] AgriXiv
 - [ ] Arabixiv
-- [ ] **arXiv**
 - [ ] Authorea
 - [ ] Berkeley Initiative for Transparency in the Social Sciences
-- [x] bioRxiv
 - [ ] CERN document server
-- [x] ChemRxiv
 - [ ] ChinaXiv
 - [ ] Cogprints
 - [ ] **??** CORE repository
@@ -28,7 +41,6 @@ Advance
 - [ ] Electronic Colloquium on Computational Complexity
 - [ ] engrxiv
 - [ ] ESSOAr
-- [x] F1000 Research
 - [ ] FocUS Archive
 - [ ] Frenxiv
 - [ ] JMIR Preprints
@@ -42,9 +54,7 @@ Advance
 - [ ] MindRxiv
 - [ ] NBER Working Papers
 - [ ] NutriXiv
-- [ ] **OSF preprints**
 - [ ] PaleorXiv
-- [x] PeerJ preprints
 - [ ] Philsci Archive
 - [ ] Preprints.org
 - [ ] PsyArXiv
@@ -54,7 +64,6 @@ Advance
 - [ ] SocArxiv
 - [ ] SportRxiv
 - [ ] SSOAR
-- [ ] **SSRN**
 - [ ] Therapoid
 - [ ] ViXra
-- [ ] **Zenodo**
+
