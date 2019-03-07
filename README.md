@@ -12,10 +12,11 @@ preprint metadata harvester and ingester
 - [x] ChemRxiv
 - [x] F1000 Research
 - [x] PeerJ preprints
+- [x] Preprints.org
+- [x] arXiv
 
 ### Up next
 
-- [ ] **arXiv**
 - [ ] **OSF preprints**
 - [ ] **SSRN**
 - [ ] **Zenodo**
@@ -56,7 +57,6 @@ preprint metadata harvester and ingester
 - [ ] NutriXiv
 - [ ] PaleorXiv
 - [ ] Philsci Archive
-- [ ] Preprints.org
 - [ ] PsyArXiv
 - [ ] Munich Personal RePEc Archive
 - [ ] **??** ResearchGate
