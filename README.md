@@ -20,12 +20,18 @@ preprint metadata harvester and ingester
 - [ ] **OSF preprints**
 - [ ] **SSRN**
 - [ ] **Zenodo**
+- [ ] **AfricArxiv**
+- [ ] **INA-Rxiv**
+- [ ] **EcoEvoRxiv**
+- [ ] **PsyArXiv**
+- [ ] **SocArxiv**
+- [ ] **engrxiv**
+- [ ] **AgriXiv**
 
 ### Future
 
-- [ ] Advance
-- [ ] AfricArxiv
-- [ ] AgriXiv
+- [ ] **SciELO Preprints (coming soon)**
+- [ ] Advanc
 - [ ] Arabixiv
 - [ ] Authorea
 - [ ] Berkeley Initiative for Transparency in the Social Sciences
@@ -35,17 +41,14 @@ preprint metadata harvester and ingester
 - [ ] **??** CORE repository
 - [ ] Cryptology ePrint Archive
 - [ ] EarthArXiv
-- [ ] EcoEvoRxiv
 - [ ] ECONSTOR 
 - [ ] ECSarXiv
 - [ ] E-lis
 - [ ] Electronic Colloquium on Computational Complexity
-- [ ] engrxiv
 - [ ] ESSOAr
 - [ ] FocUS Archive
 - [ ] Frenxiv
 - [ ] JMIR Preprints
-- [ ] INA-Rxiv
 - [ ] LawArxiv
 - [ ] LIS Scholarship Archive
 - [ ] LingBuzz
@@ -57,11 +60,8 @@ preprint metadata harvester and ingester
 - [ ] NutriXiv
 - [ ] PaleorXiv
 - [ ] Philsci Archive
-- [ ] PsyArXiv
 - [ ] Munich Personal RePEc Archive
 - [ ] **??** ResearchGate
-- [ ] SciELO Preprints (coming soon)
-- [ ] SocArxiv
 - [ ] SportRxiv
 - [ ] SSOAR
 - [ ] Therapoid
