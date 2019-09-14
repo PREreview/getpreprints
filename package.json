@@ -4,6 +4,7 @@
   "description": "Node.JS library and CLI for discovering and retrieving preprint articles and metadata",
   "main": "index.js",
   "scripts": {
+    "import:europepmc": "node --max-old-space-size=8192 ./scripts/import_eupmc_to_getpreprints.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

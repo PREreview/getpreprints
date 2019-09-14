@@ -36,6 +36,12 @@ function transform (data) {
     authors = [authors]
   }
 
+  authors = authors.map(a => {
+    a.orcid = (a.authorId && a.authorId._) ? a.authorId._ : null
+    delete a.authorId
+    return a
+  })
+
   return {
     doi: data.doi,
     title: data.title,
