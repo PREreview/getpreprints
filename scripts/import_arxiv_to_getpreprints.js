@@ -1,7 +1,7 @@
 var path = require('path')
 
 var indir = path.join(__dirname, '../sources/2019-07-02')
-var arxivfile = path.join(indir, 'arxiv/10_records.json')
+var arxivfile = path.join(indir, 'arxiv/records_clean.json')
 
 var streamToDb = require('../lib/utils/stream-to-db')
 
