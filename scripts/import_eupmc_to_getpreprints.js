@@ -1,6 +1,9 @@
 var path = require('path')
 
 var doiToPublisher = require('../lib/utils/doi-to-publisher')
+// to generate this file download the gzipped archive
+// then gunzip it, remove the first and last line,
+// and use `xml-json archive.xml article > archive.json` 
 var eupmcfile = '/home/rik/.getpreprints/data/archives/europepmc/PreprintAbstractsXML_201908.json'
 
 var streamToDb = require('../lib/utils/stream-to-db')
