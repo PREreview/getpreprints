@@ -42,10 +42,10 @@ function transform (data) {
     return a
   })
 
-  return {
+  var d = {
     doi: data.doi,
     title: data.title,
-    abstract: data.abstract,
+    abstract: data.abstractText,
     source: 'EuropePMC',
     publisher: data.bookOrReportDetails.publisher,
     authors: authors,
@@ -56,4 +56,5 @@ function transform (data) {
       a => `${a.firstName || ''} ${a.lastName || ''}`.trim()
     ).join(' '),
   }
+  return d
 }
