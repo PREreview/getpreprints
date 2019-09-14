@@ -13,7 +13,7 @@ streamToDb({
   cb: cb
 })
 
-function cb (err) {
+function cb (err, db) {
   if (err) throw err
   console.log('Finished populating hyperDB :)')
 
@@ -53,5 +53,3 @@ function transform (data) {
     ).join(' '),
   }
 }
-
-
